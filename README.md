@@ -39,13 +39,13 @@
 <!-- Table -->
 |서비스|화면|
 |:--:|:--:|
-|로그인 및 내 정보| |
-|메인화면 및 검색기능| |
-|기준정보| |
-|입고관리|  |
-|재고관리|  |
-|출고관리| |
-|관리자 및 지점관리|  |
+|로그인 및 내 정보|![로그인](https://github.com/AWESOMEBEANS/.github/assets/139051542/506f667c-9f20-4de9-8642-a77cdbd6f93d) |
+|메인화면 및 검색기능| ![2 메인화면](https://github.com/AWESOMEBEANS/.github/assets/139051542/985d301e-ccbb-478e-bbd0-202993614d4b) |
+|기준정보|  ![3 기준정보](https://github.com/AWESOMEBEANS/.github/assets/139051542/c3a1c223-74ee-4359-ae2a-d0116e3af909) |
+|입고관리| ![4 입고관리](https://github.com/AWESOMEBEANS/.github/assets/139051542/e4a3850a-48b9-4a29-acf5-1eb945d464d8) |
+|재고관리| ![5 재고관리](https://github.com/AWESOMEBEANS/.github/assets/139051542/deb52254-79a2-420e-ae0b-c38fceceab8e) |
+|출고관리|![6 출고관리](https://github.com/AWESOMEBEANS/.github/assets/139051542/fd5cd741-9b9a-4544-9b39-ddda9aafffd9) |
+|관리자 및 지점관리| ![7 관리자](https://github.com/AWESOMEBEANS/.github/assets/139051542/9372391e-9ada-428f-ae11-1f3e121ae797) |
 
 ##
 
